@@ -5,14 +5,14 @@ PhotoLabs is a React App project assignment completed for Web Development Bootca
 
 ## App Functionalities
 
-### Displaying photos by topics
-![](/docs/topics.gif)
+### Main page with all photos
+![First page](/docs/first-page.png)
 
-### User can like a photo from anywhere where it displays. A notification dot will appear when a photo is liked.
-![](/docs/likes.gif)
+### Page shows the user's likes and chaging the icon.
+![Page with likes](/docs/liked-page.png)
 
-### User can click on the photo to see a larger version. Similar photos will be displayed beneath.
-![](/docs/modal.gif)
+### Extra window for larger version of photo and similar photos.
+![Extra](/docs/extra-view.png)
 
 ## Tech Stack
 - React
