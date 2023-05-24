@@ -3,7 +3,7 @@ PhotoLabs is a React App project assignment completed for Web Development Bootca
 
 # PhotoLabs
 
-### Main page with all photos
+### Main page with all photos.
 ![First page](/docs/first-page.png)
 
 ### Page shows the user's likes and chaging the icon.
